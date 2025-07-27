@@ -1,3 +1,5 @@
 [
-{ "url":"allende/allende_limpio.wav","type":"audio","bank":"allende","n":0}
+{ "url":"allende/allende_limpio.wav","type":"audio","bank":"allende","n":0},
+{ "url":"allende/allende-alamedas.wav","type":"audio","bank":"allende","n":1},
+{ "url":"allende/allendeChido.wav","type":"audio","bank":"allende","n":2}
 ]
