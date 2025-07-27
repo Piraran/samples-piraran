@@ -1,22 +1,6 @@
 [
 { "url":"allende/allende_limpio.wav","type":"audio","bank":"allende","n":0},
-{ "url":"allende/allende-alamedas.wav","type":"audio","bank":"allende","n":1},
-{ "url":"allende/allendeChido.wav","type":"audio","bank":"allende","n":2},
-{ "url":"cpluck/01_C2_pluck_long.wav","type":"audio","bank":"zpluck","n":0},
-{ "url":"ukulele/00_c3_long_soft.wav","type":"audio","bank":"kukulele","n":0},
-{ "url":"ukulele/01_c3_short_soft.wav","type":"audio","bank":"kukulele","n":1},
-{ "url":"ukulele/02_c3_long_hard.wav","type":"audio","bank":"kukulele","n":2},
-{ "url":"ukulele/04_C3_pluck_long.wav","type":"audio","bank":"kukulele","n":3},
-{ "url":"ukulele/05_C3_pluck_short.wav","type":"audio","bank":"kukulele","n":4},
-{ "url":"ukulele/06_C3_plucked_popped.wav","type":"audio","bank":"kukulele","n":5},
-{ "url":"ukulele/07_C3_pluck_harmonic.wav","type":"audio","bank":"kukulele","n":6},
-{ "url":"ukulele/08_C4_plucked.wav","type":"audio","bank":"kukulele","n":7},
-{ "url":"ukulele/09_C5_plucked.wav","type":"audio","bank":"kukulele","n":8},
-{ "url":"ukulele/10_ghost_pluck.wav","type":"audio","bank":"kukulele","n":9},
-{ "url":"ukulele/11_body_low.wav","type":"audio","bank":"kukulele","n":10},
-{ "url":"ukulele/12_body_high.wav","type":"audio","bank":"kukulele","n":11},
-{ "url":"ukulele/13_rub.wav","type":"audio","bank":"kukulele","n":12},
-{ "url":"ukulele/14_arpeggio_plucked.wav","type":"audio","bank":"kukulele","n":13},
-{ "url":"ukulele/15_pluck_riff_blues_descending.wav","type":"audio","bank":"kukulele","n":14}
+{ "url":"allende/allande-alamedas.wav","type":"audio","bank":"allende","n":1},
+{ "url":"allende/allendeChido.wav","type":"audio","bank":"allende","n":2}
 ]
 
